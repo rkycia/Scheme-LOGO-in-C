@@ -11,7 +11,7 @@ Warnings:
 Authors:
 
 Mateusz Hofman
-cynamonized@gmail.com
+cynamonized@gmail.com                       
 Cracow University of Technology
 Krakow, Poland
 
@@ -24,16 +24,13 @@ Krakow, Poland
 
 Brief descritpion:
 
-Implementation of LOGO in Scheme language. It is based on Guile and uses OpenGL for drawing. 
+Implementation of LOGO in Scheme language. It is based on Guile and uses OpenGL for drawing. It uses threads.
 
 Bibliography:
 
 [1] Guile, http://www.gnu.org/software/guile/
 
 [2] Emebedding Guile in C, http://www.gnu.org/software/guile/docs/guile-tut/tutorial.html
-
-[3] 
-
 
 
 Dependence:
