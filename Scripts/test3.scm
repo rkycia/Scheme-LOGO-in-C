@@ -1,0 +1,8 @@
+(move 0.3)
+(recolor 1 1 0)
+(turn 90)
+(move 0.5)
+(turn 120)
+(recolor 1 0.5 0)
+(move 0.2)
+(sleep 10 )
